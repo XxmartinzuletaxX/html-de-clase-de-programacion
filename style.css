@@ -21,12 +21,12 @@ h1:hover { animation: color-change 3s infinite; }
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    font-size:25px;
+    font-size:15px;
     background-color: #0b82a7e0;
     color: #354c68d7;
 }
 h1 {
-    color: #0027a8;
+    color: #0d37be;
     font-size: 50px;
     font-family:'Times New Roman', Times, serif; 
     text-align: center;
@@ -38,5 +38,5 @@ h2{
 img{
     text-align: center;
     align-items: center;
-    width: 500px;
+    width: 450px;
 }
